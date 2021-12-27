@@ -1,0 +1,2 @@
+main : CWE190_emu.ml
+depends: bap bap-main bap-primus bap-x86-cpu
